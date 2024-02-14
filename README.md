@@ -8,7 +8,7 @@ The DICOM format, Digital Imaging and Communications in Medicine, is a standard 
 
 This project provides a full solution for Medical Science Research members, to build appliance (Raspberry Pi based) or to install on Kubernetes (though Helm chart installer), a complete PACS server, enabling local anonymisation, local export, cloud export, and feedback reintegration.
 
-**French:** *Le projet permet de générer au choix, des appliances (pour Raspberry Pi) ou des déploiement Kubernetes (en tant que Helm chart), fournissant les services de PACS de recherche, permettant anonymisation interne, export insitu, export cloud, et la réintégration de feedback externe.*
+**French:** *Le projet permet de générer au choix, des appliances (pour Raspberry Pi) ou des déploiements Kubernetes (en tant que Helm chart), fournissant les services de PACS de recherche, permettant anonymisation interne, export insitu, export cloud, et la réintégration de feedback externe.*
 
 ## Check the builder form
 ```mermaid
